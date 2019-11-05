@@ -3,7 +3,7 @@
 //  Xylophone
 //
 //  Created by Steven Sim on 09/08/19.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Copyright © 2019 Steven Sim. All rights reserved.
 //
 
 import UIKit
