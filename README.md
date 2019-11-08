@@ -20,3 +20,7 @@ Xylophone is an app to play sound notes, this app is transforming a real xylopho
 * Error handling in Swift.
 * Code refactoring.
 * Basic debugging.
+
+## Demo
+
+![Xylophone Screenshot](Documentation/iOS-Xylophone.png)
